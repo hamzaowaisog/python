@@ -6,7 +6,7 @@
 
 import pandas as pd
 data = pd.read_csv('airlines_data_part.csv')
-data.head(50)
+print(data.head(50))
 
 
 # In[ ]:
